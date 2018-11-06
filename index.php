@@ -4,7 +4,7 @@
 
 <h1 style="text-align:center;">MTUniversity</h1>
 <p style="text-align:center;">Coming soon........</p>
-<p>Upcoming courses</p>
+<p>List of Upcoming courses</p>
 <?php
 $classes = array("1- Intro to Abrasives 100", "2- Grinding Processes 201", "3- Grinding Safety 211");
 sort($classes);
