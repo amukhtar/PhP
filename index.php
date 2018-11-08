@@ -6,7 +6,7 @@
 <p style="text-align:center;">Coming soon........</p>
 <p>Upcoming courses</p>
 <?php
-$classes = array("1- Intro to Abrasives 100", "2- Grinding Processes 201", "3- Grinding Safety 211");
+$classes = array("3- Intro to Abrasives 100", "2- Grinding Processes 201", "1- Grinding Safety 211");
 sort($classes);
 
 $clength = count($classes);
